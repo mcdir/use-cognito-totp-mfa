@@ -1,0 +1,4 @@
+module.exports = {
+   UserPoolId: '[Cognito User Pool ID]',
+   ClientId: '[Client App ID]'
+};
